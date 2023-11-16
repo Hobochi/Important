@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Begin 1","order":1,"parentId":0,"scrollX":605.5,"scrollY":461},
+{"id":2,"expanded":false,"name":"Begin 2","order":2,"parentId":1,"scrollX":893.4545454545455,"scrollY":502.90909090909093},
+{"id":3,"expanded":false,"name":"Labirint_ujasa","order":3,"parentId":0,"scrollX":884.7272727272727,"scrollY":494.1818181818182},
+{"id":4,"expanded":false,"name":"Замок одиночества","order":4,"parentId":0,"scrollX":1384.5,"scrollY":1776},
+{"id":5,"expanded":false,"name":"Аллея лжи","order":5,"parentId":0,"scrollX":597.5,"scrollY":461},
+{"id":6,"expanded":false,"name":"Склеп отчаяния","order":6,"parentId":0,"scrollX":597.5,"scrollY":1947},
+{"id":7,"expanded":true,"name":"Финал","order":7,"parentId":0,"scrollX":605.5,"scrollY":461},
+{"id":8,"expanded":false,"name":"Финал_1","order":8,"parentId":7,"scrollX":819,"scrollY":461}
+]
